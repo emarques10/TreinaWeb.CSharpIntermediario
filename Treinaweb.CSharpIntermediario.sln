@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudoDelegates", "EstudoDe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudoGenerics", "EstudoGenerics\EstudoGenerics.csproj", "{07E98B79-11A0-431B-B385-552474D84A57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudoXML", "EstudoXML\EstudoXML.csproj", "{AD6F3C79-50F4-436C-A793-DCF49214E476}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{07E98B79-11A0-431B-B385-552474D84A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07E98B79-11A0-431B-B385-552474D84A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07E98B79-11A0-431B-B385-552474D84A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD6F3C79-50F4-436C-A793-DCF49214E476}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6F3C79-50F4-436C-A793-DCF49214E476}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6F3C79-50F4-436C-A793-DCF49214E476}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6F3C79-50F4-436C-A793-DCF49214E476}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
