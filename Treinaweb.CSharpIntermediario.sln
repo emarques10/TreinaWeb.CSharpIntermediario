@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudoGenerics", "EstudoGen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EstudoXML", "EstudoXML\EstudoXML.csproj", "{AD6F3C79-50F4-436C-A793-DCF49214E476}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgendaADONET", "AgendaADONET\AgendaADONET.csproj", "{06F7D3AA-D943-4704-B331-48202ACAF39F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{AD6F3C79-50F4-436C-A793-DCF49214E476}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD6F3C79-50F4-436C-A793-DCF49214E476}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD6F3C79-50F4-436C-A793-DCF49214E476}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06F7D3AA-D943-4704-B331-48202ACAF39F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06F7D3AA-D943-4704-B331-48202ACAF39F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06F7D3AA-D943-4704-B331-48202ACAF39F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06F7D3AA-D943-4704-B331-48202ACAF39F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

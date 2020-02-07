@@ -6,5 +6,6 @@
     <contato id="2" nome="Maria da Silva" idade="30" />
     <contato id="3" nome="José da Silva" idade="40" />
     <contato id="5" nome="Teste" idade="31" />
+    <contato id="5" nome="Teste" idade="31" />
   </contatos>
 </agenda>
